@@ -13,6 +13,8 @@ Possible KPIs include (to get you started, but not limited to):
 
 Overall customer satisfaction Overall calls answered/abandoned Calls by time Average speed of answer Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
+![Customer Churn Analysis - Ragavendran](https://github.com/user-attachments/assets/86a81c7c-131b-4686-a201-ebfe77ceff7e)
+
 Task 2: Customer Retention
 
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
@@ -28,3 +30,6 @@ At PwC Switzerland we are often approached by clients seeking support with diver
 Here is a hint: Calculating the following measures could help to define proper KPIs:
 
 number of men number of women number of leavers % employees promoted (FY21) % of women promoted % of hires men % of hires women % turnover Average performance rating: men Average Performance rating: women
+
+![Diversity and Inclusion - Ragavendran](https://github.com/user-attachments/assets/480d67bd-a678-427a-9479-163f809e5de2)
+
